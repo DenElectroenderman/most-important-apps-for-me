@@ -1,4 +1,4 @@
-# most-important-apps-for-me
+# list-n-links
 list of apps i must download when i reinstall windows
 
 i'll try to install all stuff on D drive, but it may cause "the end of 3TB"
@@ -24,6 +24,8 @@ nvidiaprofileinspector - https://github.com/Orbmu2k/nvidiaProfileInspector/relea
 GD geode - https://geode-sdk.org/install
 
 olympus - https://gamebanana.com/tools/download/6449
+
+r2modman - https://thunderstore.io/package/ebkr/r2modman/
 
 ## AUDIO
 
