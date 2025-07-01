@@ -13,6 +13,8 @@ sm64 plus - https://www.mfgg.net/?act=resdb&param=02&c=2&id=38190
 
 msys - https://www.msys2.org/
 
+sm64stardisplay - https://github.com/aglab2/SM64StarDisplay/releasesv
+
 retroarch(via steam i guess)
 
 legacylauncher - https://legacylauncher.ru/ru
