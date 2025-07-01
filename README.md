@@ -53,7 +53,7 @@ davinchi
 
 7zip - https://www.7-zip.org/
 
-zapret newest version(flowseal or smth) - https://github.com/Flowseal/zapret-discord-youtube/releases
+zapret newest version(flowseal) - https://github.com/Flowseal/zapret-discord-youtube/releases
 
 waterfox D - https://www.waterfox.net/download/
 
