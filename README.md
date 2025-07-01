@@ -41,7 +41,7 @@ last fm scrobbler - https://www.last.fm/about/trackmymusic
 
 music presence - https://github.com/ungive/discord-music-presence/releases
 
-spotify
+spotify - https://open.spotify.com/download
 
 soulseekqt - https://www.slsknet.org/news/node/1
 
