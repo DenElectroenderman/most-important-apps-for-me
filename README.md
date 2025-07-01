@@ -9,7 +9,9 @@ Maybe i should do month update for all those apps and throwing em on 64gb flash 
 
 steam D - https://store.steampowered.com/about/
 
-sm64 plus(+msys)
+sm64 plus - https://www.mfgg.net/?act=resdb&param=02&c=2&id=38190
+
+msys - https://www.msys2.org/
 
 retroarch(via steam i guess)
 
@@ -75,7 +77,7 @@ telegram - https://desktop.telegram.org/?setln=en
 
 whatsapp - https://www.whatsapp.com/download
 
-amnezia vpn - 
+amnezia vpn - https://amnezia.org/en/downloads / https://github.com/amnezia-vpn/amnezia-client/releases
 
 ## MORE SPECIFIED APPS
 
@@ -119,7 +121,7 @@ crystal dick info - https://sourceforge.net/projects/crystaldiskinfo/
 
 victoria - https://hdd.by/victoria/
 
-hetman recovery - 
+hetman recovery - pirate
 
 sdi - https://sdi-tool.org/download/
 
