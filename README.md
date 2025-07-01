@@ -99,9 +99,7 @@ dnSpy - https://github.com/dnSpy/dnSpy/releases
 
 bsodviewer - https://www.nirsoft.net/utils/blue_screen_view.html#DownloadLinks
 
-wincrashreport - https://www.nirsoft.net/utils/application_crash_report.htmlhttps://www.nirsoft.net/utils/
-
-application_crash_report.html
+wincrashreport - https://www.nirsoft.net/utils/application_crash_report.html
 
 NBTExplorer - https://github.com/jaquadro/NBTExplorer/releases
 
