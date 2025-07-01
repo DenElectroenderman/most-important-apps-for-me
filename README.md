@@ -49,7 +49,7 @@ fl studio - pirate
 
 ## VIDEO
 
-davinchi 
+davinchi resolve studio - pirate
 
 ## ALL-AROUND APPS
 
