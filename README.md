@@ -51,7 +51,7 @@ fl studio - pirate
 
 ## VIDEO
 
-davinchi resolve studio - pirate
+davinchi resolve studio - i guess official?
 
 ## ALL-AROUND APPS
 
