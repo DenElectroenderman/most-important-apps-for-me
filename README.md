@@ -3,7 +3,7 @@ list of apps i must download when i reinstall windows
 
 i'll try to install all stuff on D drive, but it may cause "the end of 3TB"
 ~~Also setupdotexe folder is way to big, so~~ i want to do file with links instead of storing GB's of installers.
-Maybe i should do month update for all those apps and throwing em on 64gb flash drive. Some very important apps that i wont reinstall i would mark 'D' here, so the at mean its always should be NOT on the system drive
+Maybe i should do month update for all those apps and throwing em on 64gb flash drive. Some very important apps that i wont reinstall i would mark 'D' here, so that mean its always should be NOT on the system drive
 
 ## GAMES
 
