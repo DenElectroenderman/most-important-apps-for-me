@@ -15,7 +15,7 @@ msys - https://www.msys2.org/
 
 sm64stardisplay - https://github.com/aglab2/SM64StarDisplay/releasesv
 
-retroarch(via steam i guess)
+retroarch - https://www.retroarch.com/?page=platforms
 
 legacylauncher - https://legacylauncher.ru/ru
 
