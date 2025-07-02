@@ -51,7 +51,7 @@ fl studio - pirate
 
 ## VIDEO
 
-davinchi resolve studio - i guess official?
+davinchi resolve - https://www.blackmagicdesign.com/products/davinciresolve
 
 ## ALL-AROUND APPS
 
@@ -123,7 +123,7 @@ crystal dick info - https://sourceforge.net/projects/crystaldiskinfo/
 
 victoria - https://hdd.by/victoria/
 
-hetman recovery - pirate
+hetman recovery - pirate? i had setup.exe on my pc so i just keep it
 
 sdi - https://sdi-tool.org/download/
 
