@@ -138,3 +138,5 @@ medicat - https://medicatusb.com/#downloads
 krita - https://krita.org/en/download/
 
 paint.net - https://www.getpaint.net/download.html
+
+## appdata-folders
